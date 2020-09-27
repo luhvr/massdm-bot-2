@@ -1,8 +1,5 @@
-# credits
-creds to 3lone
+# indentation will need to be fixed
 
-# important
-indentation will need to be fixed
 
 # massdm bot 2
 a lil massdm code for bots
