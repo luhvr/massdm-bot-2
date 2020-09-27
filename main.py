@@ -14,7 +14,7 @@ async def on_ready():
 await client.change_presence(activity=discord.Streaming(name="wtv u want", url="enter url"))
 
 
-#Stream cmd was extra yw creds to 3lone
+#stream cmd was extra yw creds to 3lone
 
 
 @client.command(pass_context=True)
