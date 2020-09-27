@@ -1,7 +1,7 @@
-# indentation will need to be fixed
+# .
+indentation will need to be fixed
 
-
-# massdm bot 2
+# 2
 a lil massdm code for bots
 
 # random
